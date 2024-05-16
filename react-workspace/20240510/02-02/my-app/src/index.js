@@ -5,8 +5,6 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Clock from "./chapter_04/Clock";
 
-// const root = ReactDOM.createRoot(document.getElementById('root'));
-
 setInterval(() => {
     ReactDOM.render(
     <React.StrictMode>
